@@ -7,7 +7,7 @@ Welcome to the official repository for the lectures I delivered as part of the "
 
 <p float="left">
  <a href="https://www.facebook.com/share/p/1AEKihwC8P/">
-     <img src="GRIND 75 Announcement.jpg" width="400px" />
+     <img src="https://www.facebook.com/photo/?fbid=1241351841329627&set=a.260463502751804" width="400px" />
   </a>
 
 ***
