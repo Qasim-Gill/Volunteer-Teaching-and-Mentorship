@@ -79,7 +79,9 @@ Each week covers essential DSA topics, paired with practical LeetCode problems, 
 - Samina Jan  
 - Ali Tariq  
 - Hanzla Nawaz  
-- Nazia Khan  
+- Nazia Khan
+- Haris Ahsan
+- Uzma Shahzad
 
 ## 🙌 Contributors
 - Ahmad Yezdan  
