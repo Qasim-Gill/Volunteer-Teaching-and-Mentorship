@@ -95,6 +95,8 @@ Each week covers essential DSA topics, paired with practical LeetCode problems, 
 
 ## 🔗 Stay Connected
 - 📘 Youtube Recordings (will upload soon): [Link to All](https://www.facebook.com/QasimGill/)
+- 📘 Here is Course outline: [Outline](https://docs.google.com/document/d/1KYcWWw1ZUhpltDYpnDhdaf4a0ucNXL04VkEdCupl9fM/edit?tab=t.0)
+- 📘 Here is more detailed excel sheet: [Outline](https://docs.google.com/document/d/1KYcWWw1ZUhpltDYpnDhdaf4a0ucNXL04VkEdCupl9fM/edit?tab=t.0)
 - 🔒 Private Group: Accessible to bootcamp participants
 - 🧠 LeetCode Practice: Focus on quality over quantity – solve each problem deeply.
 
