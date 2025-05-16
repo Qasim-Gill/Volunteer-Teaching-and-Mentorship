@@ -102,5 +102,7 @@ Each week covers essential DSA topics, paired with practical LeetCode problems, 
 
 ---
 
+<img src="https://github.com/Qasim-Gill/Volunteer-Teaching-and-Mentorship/blob/main/DSA%2011%20AM%206%20Weeks%20Bootcamp/mycourse.jpg" width="500px" />
+
 > **Note:** This is a live evolving document. More links, notebooks, and summaries will be added soon.
 
